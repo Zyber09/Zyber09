@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  🔥 Passionate developer who loves <b>building cool projects</b> and <b>exploring new technologies</b>.  
+  🔥 PASSIONATE developer who loves <b>building cool projects</b> and <b>exploring new technologies</b>.  
   <br/>  
   I work with multiple languages & tools including:  
 </p>
