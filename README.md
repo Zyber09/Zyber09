@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  🔥 PASSIONATE developer who loves <b>building cool projects</b> and <b>exploring new technologies</b>.  
+   A developer who loves <b>building cool projects</b> and <b>exploring new technologies</b>.  
   <br/>  
   I work with multiple languages & tools including:  
 </p>
@@ -24,22 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyber09&theme=tokyonight&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Zyber09">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@zyberrrr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/WsDQwqCGGk">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
 </p>
 
 ---
