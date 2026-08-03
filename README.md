@@ -1,11 +1,5 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Zyber</span>!</h1>
-<h3 align="center">💻 Programmer | 🎮 Game Modder | 🛠️ Software Engineer</h3>
-
----
 
 <p align="center">
-   A developer who loves <b>building cool projects</b> and <b>exploring new technologies</b>.  
-  <br/>  
   I work with multiple languages & tools including:  
 </p>
 
